@@ -1,0 +1,1 @@
+AI Virtual Mouse 2.0 – A Python-based hands-free desktop controller using OpenCV, MediaPipe and PyAutoGUI. Control mouse movements, clicks, drag-and-drop, screenshots, volume, media playback, Copilot and application switching through real-time hand gestures.
